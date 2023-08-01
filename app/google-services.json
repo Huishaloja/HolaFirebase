@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584489281436",
+    "firebase_url": "https://holafirebase-f722b-default-rtdb.firebaseio.com",
+    "project_id": "holafirebase-f722b",
+    "storage_bucket": "holafirebase-f722b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584489281436:android:616b37c2960cb1d17dca59",
+        "android_client_info": {
+          "package_name": "com.edu.holafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584489281436-3mm3mncuhmam7f3r7504e2jgjanufl77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXH1kxzb-WXk-SAD23l3YdL_0KzFClerU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584489281436-3mm3mncuhmam7f3r7504e2jgjanufl77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
